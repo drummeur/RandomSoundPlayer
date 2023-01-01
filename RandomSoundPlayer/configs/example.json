@@ -1,0 +1,34 @@
+{
+  "Configurations": [
+    {
+      "path": "C:\\Windows\\Media\\chimes.wav",
+      "volume": 90,
+      "min_delay": 6,
+      "max_delay": 10
+    },
+    {
+      "path": "C:\\Windows\\Media\\chord.wav",
+      "volume": 95,
+      "min_delay": 1,
+      "max_delay": 15
+    },
+    {
+      "path": "C:\\Windows\\Media\\ding.wav",
+      "volume": 39,
+      "min_delay": 3,
+      "max_delay": 5
+    },
+    {
+      "path": "C:\\Windows\\Media\\notify.wav",
+      "volume": 75,
+      "min_delay": 10,
+      "max_delay": 20
+    },
+    {
+      "path": "C:\\Windows\\Media\\tada.wav",
+      "volume": 100,
+      "min_delay": 5,
+      "max_delay": 30
+    }
+  ]
+}
